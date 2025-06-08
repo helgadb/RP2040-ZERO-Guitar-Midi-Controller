@@ -1,7 +1,7 @@
 # RP2040-ZERO-Guitar-Midi-Controller
 RP2040-ZERO GUITAR MIDI CONTROLLER
 
-**Código para configuração do RP2040-zero para operar como dispositivo MIDI USB. **
+**Código para configuração do RP2040-zero para operar como dispositivo MIDI USB.**
 
 Através da porta USB, o microcontrolador é reconhecido pelo sistema como dispositivo MIDI e pode ser utilizado como controlador MIDI.
 O código foi implementado com funções e é facilmente adaptável.
